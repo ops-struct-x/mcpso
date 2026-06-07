@@ -1,3 +1,4 @@
+yaml
 ---
 name: structx-mcp
 description: Structured extraction MCP server with 15 tools
